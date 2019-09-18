@@ -1,0 +1,31 @@
+body{
+background: gray;
+}
+
+il, li {
+display: block;
+padding: 0;
+margin:0;
+}
+
+
+.menu-bar {
+background: white;
+padding: 20px 0;
+color: #000000;
+}
+.menu__item
+{
+    margin-left: 37px;
+}
+
+.menu__item a {
+
+    font-size:20px;
+    color:#000000;
+}
+.menu__item a:hover {
+
+    text-decoration: none;
+    color:#868686;
+}
